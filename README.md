@@ -8,6 +8,7 @@ Below is mentioned the topic, classes and functions written by each team Member:
 part of the prioritized queue, administrators.
 classes : user, ChargingStationSimulation, ExternalUser, Administrator
 
-3. Anjali Khanduri : 
-4. Madhukar Devendrappa : 
-5. Danial Rafiee : 
+2. Anjali Khanduri :
+   
+3. Madhukar Devendrappa : 
+
