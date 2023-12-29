@@ -81,5 +81,10 @@ public class LogManager {
         return "archive_" + timestamp + "_" + new File(originalFileName).getName();
     	//return "archive_" + new File(originalFileName).getName();
     }
+
+    public static boolean logFileExists(String filePath) {
+        File file = new File(filePath);
+        return file.exists();
+    }
 }
 
