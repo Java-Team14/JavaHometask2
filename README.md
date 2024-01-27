@@ -1,18 +1,8 @@
-# JavaHometask2
-Java Hometask 2 - Basic I/O
+# Java Hometask2 - Basic I/O - Team 14
 
-
-Below is mentioned the topic, classes and functions written by each team Member:
-
-1. Nitika Deswal : TOPIC- Create multi user access to the charging station – external users who could book timeslot and be 
-part of the prioritized queue, administrators.
-classes : user, ChargingStationSimulation, ExternalUser, Administrator
-
-2. Anjali Khanduri : Topic - Metadata of the project - file using the Files.readAttributes method , Use BasicFileAttributes that contains various metadata about the file , try-catch block used to handle any potential IOException
-   
-3. Madhukar Devendrappa : TOPIC - managing the log files - create, move, delete, archive. Log files should be divided into classes - functionality of the system, functionality of a charging station, functionality of the energy management system
-Classes : LogManager
-
-4. Danial Rafiee : TOPIC - use byte and character streams for simulation of data exchange in the system
-classes : readByteStream, writeByteStream, readCharStream, writeCharStream
-
+## Authors
+| | Author  | Matriculation Number | Course | Contribution |
+| - | ---------- | -------------------- | ------ | ------------ |
+| 1 | Anjali Khanduri | 7219034 | MDT | Metadata of the project |
+| 2 | Nitika Deswal | 7218799 | MDT | Creating multi-user access to the charging station |
+| 3 | Madhukar Devendrappa  | 7219639 | ESE | Managing the log files, Use byte and character streams for simulation of the data exchange in the system |
